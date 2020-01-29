@@ -379,10 +379,7 @@
 		<members>*</members>
 		<name>SharingSet</name>
 	</types>
-	<types>
-		<members>*</members>
-		<name>SiteDotCom</name>
-	</types>
+	
 	<types>
 		<members>*</members>
 		<name>Skill</name>

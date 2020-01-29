@@ -211,10 +211,7 @@
 		<members>*</members>
 		<name>DataCategoryGroup</name>
 	</types>
-	<types>
-		<members>*</members>
-		<name>DelegateGroup</name>
-	</types>
+	
 	<types>
 		<members>*</members>
 		<name>DuplicateRule</name>
